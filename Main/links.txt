@@ -1,0 +1,52 @@
+======================================================= 
+Exoplanet Archive & Documenntation
+======================================================= 
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS&constraint=default_flag=1
+https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html
+
+
+
+======================================================= 
+Genneral
+=======================================================
+https://en.wikipedia.org/wiki/Exoplanet
+https://en.wikipedia.org/wiki/Exoplanetology
+https://en.wikipedia.org/wiki/Planetary_science
+https://it.wikipedia.org/wiki/Pianeta_extrasolare
+https://en.wikipedia.org/wiki/Planetary_system
+https://en.wikipedia.org/wiki/Planet-hosting_stars
+
+
+
+======================================================= 
+Methods of detecting exoplanets
+======================================================= 
+https://en.wikipedia.org/wiki/Methods_of_detecting_exoplanets
+https://en.wikipedia.org/wiki/Transit_(astronomy)
+https://en.wikipedia.org/wiki/Doppler_spectroscopy
+
+
+
+=======================================================
+Regarding extraterrestrial life & Habitability
+=======================================================
+https://en.wikipedia.org/wiki/Astrobiology
+https://en.wikipedia.org/wiki/Circumstellar_habitable_zone
+https://en.wikipedia.org/wiki/Earth_analog
+https://en.wikipedia.org/wiki/Earth_Similarity_Index
+https://en.wikipedia.org/wiki/Extraterrestrial_liquid_water
+https://en.wikipedia.org/wiki/Habitability_of_natural_satellites
+https://en.wikipedia.org/wiki/Superhabitable_planet
+https://en.wikipedia.org/wiki/Catalog_of_Nearby_Habitable_Systems
+
+
+
+=======================================================
+Strange Properties we can discuss stastistically
+=======================================================
+https://en.wikipedia.org/wiki/Neptunian_Desert
+https://en.wikipedia.org/wiki/Small_planet_radius_gap
+https://en.wikipedia.org/wiki/Atmospheric_escape
+https://en.wikipedia.org/wiki/Giant_planet
+https://en.wikipedia.org/wiki/Photoevaporation
+https://en.wikipedia.org/wiki/Planetary_migration
