@@ -1,4 +1,46 @@
 \section{Introduzione}
-Questa è l'introduzione
+Il database originale contiene 39 parametri, molti sono stati scartati per la scarsa utilità alla risoluzione del nostro problema.
+\subsection{Contenuto del dataset}
+Il dataset è composto da 16 parametri, categorici e numerici, che individuano le caratteristiche del pianeta e del sistema a cui esso appartiene.
+\begin{center}
+\begin{tabular}{|p{0.2\linewidth}|p{0.2\linewidth}|p{0.5\linewidth}|}
+\hline
+Parametro&Unità di misura&Descrizione\\
+\hline
+\hline
+sy\textunderscore snum&N.A.&Numero di stelle facenti parte del sistema a cui appartiene il pianeta\\
+\hline
+sy\textunderscore pnum&N.A.&Numero di pianeti facenti parte del sistema a cui appartiene il pianeta\\
+\hline
+discoverymethod&Categorica&Metodo di scoperta del pianeta\\
+\hline
+pl\textunderscore orbper&[Giorni]&Periodo orbitale del pianeta\\
+\hline
+pl\textunderscore orbsmax&[Unità astronomiche]&Semiasse maggiore dell'orbita del pianeta\\
+\hline
+pl\textunderscore rade&[$R_{\Earth}$]&Raggio del pianeta\\
+\hline
+pl\textunderscore bmasse&[$M_{\Earth}$]&Miglior stima della massa del pianeta tra i vari metodi utilizzati\\
+\hline
+pl\textunderscore orbeccen&[1]&Eccentricità dell'orbita del pianeta\\
+\hline
+pl\textunderscore insol&[Flusso radiante del Sole sulla Terra]&Flusso radiante che colpisce il pianeta\\
+\hline
+pl\textunderscore eqt&[K]&Temperatura di equilibrio del pianeta nell'assunzione di corpo nero scaldato solo dalla stella\\
+\hline
+st\textunderscore teff&[K]&Temperatura superficiale della stella modellata come corpo nero che emette la stessa quantità di radiazione\\
+\hline
+st\textunderscore rad&[$R_{\Sun}$]&Raggio della stella attorno a cui orbita il pianeta\\
+\hline
+st\textunderscore mass&[$M_{\Sun}$]&Massa della stella attorno a cui orbita il pianeta\\
+\hline
+ra&[deg]&Ascensione retta del sistema planetario\\
+\hline
+dec&[deg]&Declinazione del sistema planetario\\
+\hline
+
+\end{tabular}
+\end{center}
+
 
 
