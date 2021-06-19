@@ -1,0 +1,30 @@
+Giant Planets are more common around stars rich in metals! This is a clue to planet formation!
+Studio sulla metallicità
+
+Planets Larger than ~1.5X Earth-size are low density. Smaller planets are high density
+Metallicità e raggio
+
+quali pianeti sono esporabili?
+quali sono raggiungibili?
+
+
+sonon più caldi i pianeti su una o due stelle?
+
+quale percentuale di pianeti rendono possibile la presenza di acqua liquida?
+
+
+
+[19:37, 6/19/2021] UNI Giovanni Zhang: Secondo me possiamo far finta che un gruppo di ricerca che produce pezzi per rover vuole verificare la sopravvivenza dei loro prototipi sugli esopianeti.
+Prendendo come modello Perseverance che ha un'armatura PICA, stiamo sui 1300°C
+A partire da questo possiamo un'analisi delle temperature prestando attenzione a 3 fatti
+1. Classificare le temperature secondo altri parametri( come numero di stelle) e vedere se sono classificazioni sensate( Z test). Questo ci permette di avere distribuzioni normali abbastanza differenti tra loro da ammettere test d'ipotesi sensate( si usa tlc per quelli non normalizzabili)
+2. Si possono trarre conclusioni facendo Z test sui metodi di tracciamento e sugli anni di scoperta. Cosi rendiamo noto il bias e possiamo vedere se negli anni effettivamente vi è un miglioramento di una qualche tipo di tecnologia inerente alla temperatura
+3. Si fa il test d'ipotesi sulla possibilità di soppravvivenza( controllare che su una certa classe di pianeti la prob di sopravvivere è del K%) o sulla media campionaria ( pensavo tipo di vedere se la distribuzione normale della temp di una classe possa essere simile a quella della resistenza, dato che 1300°C è il valore medio ci serve la varianza.) 
+
+Poi avevo visto che la Perseverance usa Plutonio radioattivo per produrre energia (110W). Possiamo usare stimatori per calcolare l'energia potenziale dei pianeti e vedere in quali di questi il nostro rover sarebbe poi capace di lasciare la superficie( si dovrebbero tenere in consoderazione un sacco do fattori, ma possiamo anche semplificare a un banale bilancio di energie)
+
+Sempre per quanto riguarda l'energia, possiamo vedere quanto vale il flusso della stella sul pianeta( immagino che ci sia fra i parametri dati) e vedere in quanti di questi si potrebbero installare panelli solari per alimentare i rover
+[19:41, 6/19/2021] UNI Giovanni Zhang: Inoltre una breve lista di cose che potremmo includere nella ricerca, soprattutto per quanto riguarda l'idea di base.
+Per la parte descrittiva mi sembra che stiamo apposto dato che vi è una marea di dati. Per quanto riguarda la parte delle distribuzioni, mi occupo di classificare e fare i test di SW, cosi abbiamo cose su cui fare ipotesi.
+Per le ipotesi invece dobbiamo capire cosa fare e io propongo le cose dette sopra. La fotosontesi mi piaceva ma di exergia e flussi di corpi neri non ci capisco una mazza e fare stimatoro strani non mi sembra il caso.
+Di base comunque so analizzano le temperature quindo la regressione dovrà un po' basarsi su questo
